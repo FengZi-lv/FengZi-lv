@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FengZi-lv
-- 👀 I’m interested in Operating System Development
-- 🌱 I’m currently learning Operating System
-I write a OS named `mediaOS` now, if you interested it, you can join me.
+- 👀 I’m interested in App Development
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me : email me ,**fengzi.lv@outlook.com**
 
 <!---
